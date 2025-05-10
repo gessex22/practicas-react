@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom/client';
 // import { NdelWorld } from './EndWorld';
 
 import './main.css'
-import { FirstApp } from './FirstApp';
-import { CounterApp } from './CounterApp';
+import { CounterApp } from './CounterApp'
 //import { Practice } from './practice';
 //import { func } from 'prop-types';
 
